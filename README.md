@@ -63,14 +63,27 @@ I work at the intersection of robotics, embedded systems, signal processing, and
 
 ## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsuko-nagai&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" height="150">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=itsuko-nagai&theme=default&hide_border=true" height="150">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsuko-nagai&layout=compact&theme=default&hide_border=true" height="150">
-</p>
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=itsuko-nagai&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&rank_icon=github"
+    height="160"
+  />
+  
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=itsuko-nagai&theme=transparent&hide_border=true"
+    height="160"
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsuko-nagai&layout=compact&theme=transparent&hide_border=true"
+    height="160"
+  />
+
+</div>
 
 ---
 
