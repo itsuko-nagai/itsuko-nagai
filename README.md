@@ -18,8 +18,6 @@ I work at the intersection of robotics, embedded systems, signal processing, and
 ---
 
 ## Technical Skills
-
-### Programming  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -27,8 +25,6 @@ I work at the intersection of robotics, embedded systems, signal processing, and
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-
-### Machine Learning & AI  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv&logoColor=white)
@@ -36,22 +32,11 @@ I work at the intersection of robotics, embedded systems, signal processing, and
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-### Robotics, Embedded & IoT  
 ![ROS](https://img.shields.io/badge/ROS-0A0FF9?style=flat&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)
 ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-000000?style=flat&logo=linux&logoColor=white)
-![I2C](https://img.shields.io/badge/I2C-00599C?style=flat)
-![SPI](https://img.shields.io/badge/SPI-00599C?style=flat)
-![UART](https://img.shields.io/badge/UART-00599C?style=flat)
-![Sensor Fusion](https://img.shields.io/badge/Sensor%20Fusion-1F618D?style=flat)
-![SLAM](https://img.shields.io/badge/SLAM-1A5276?style=flat)
-![Control Systems](https://img.shields.io/badge/Control%20Systems-154360?style=flat)
-
-### Tools & Frameworks  
-![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
