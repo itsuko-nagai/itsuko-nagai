@@ -58,17 +58,22 @@ I work at the intersection of robotics, embedded systems, signal processing, and
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge)
 
-
 ---
 
 ## GitHub Analytics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=itsuko-nagai&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" height="150" > </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsuko-nagai&layout=compact&theme=transparent&hide_border=true" height="150" > </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsuko-nagai&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" height="150">
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsuko-nagai&layout=compact&theme=transparent&hide_border=true" height="150">
+</p>
 
 ---
 
 ## Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://itsuko-nagai.github.io/Anay-Deshpande-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anaydeshpande20)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:itsukonagai20@gmail.com)
